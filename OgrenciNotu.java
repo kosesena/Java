@@ -1,7 +1,8 @@
 import java.util.Scanner;
 
 /* 
-   Öğrencinin numarasını, vize ve final notunu aldıktan sonra ortalamasını hesaplayıp numarasını ve not ortalamasını yazdıran program 
+
+Öğrencinin numarasını, vize ve final notunu aldıktan sonra ortalamasını hesaplayıp numarasını ve not ortalamasını yazdıran program 
 
 Algoritma:
 
