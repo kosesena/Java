@@ -1,7 +1,10 @@
 public class App {
-    /*Girilen iki sayının en büyük ortak bölenini(ebob) bulan algoritma
+    /*
+    
+    Girilen iki sayının en büyük ortak bölenini(ebob) bulan algoritma
      
-    * EBOB:İki sayının en büyük ortak böleni, her iki sayıyı da tam bölen en büyük sayıdır.
+    EBOB:İki sayının en büyük ortak böleni, her iki sayıyı da tam bölen en büyük sayıdır.
+    
     ALGORİTMA:
     1.Başla
     2.Kullanıcıdan iki sayı al (a,b)
