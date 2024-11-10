@@ -1,6 +1,7 @@
 package Soru1;
 import java.util.Scanner;
 /* 
+  
   Bir sayının faktöriyelini bulan algoritma
  
   Faktöriyel: Bir sayının faktöriyeli,1'den o sayıya kadar olan tüm pozitif tam sayıların çarpımıdır.
