@@ -1,6 +1,6 @@
 
 /* Pisagor Teoremi:Klavyeden dik kenarlarının uzunluğu verilen bir üçgende, hipotenüsün
-uzunluğunu bulan programı satır kod ve akış diyagramı olarak ifade ediniz. */
+uzunluğunu bulan program */
 
 import java.util.Scanner;
 
