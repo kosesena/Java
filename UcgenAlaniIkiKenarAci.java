@@ -1,6 +1,6 @@
 
 /* Üçgenin Alanı-2:Klavyeden iki kenarı ve derece cinsinden aradaki açısı girilen
-üçgenin alanını hesaplayan programın satır kodunu ve akış diyagramını geliştiriniz. */
+üçgenin alanını hesaplayan program */
 
 import java.util.Scanner;
 
