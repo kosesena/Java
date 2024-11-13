@@ -1,6 +1,6 @@
 
 /* Üçgenin Alanı - Heron Formülü: Klavyeden tüm kenar uzunlukları girilen üçgenin
-alanını hesaplayan programın satır kodunu ve akış diyagramını geliştiriniz. */
+alanını hesaplayan program */
 
 import java.util.Scanner;
 
