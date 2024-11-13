@@ -1,6 +1,6 @@
 
 /*  Üçgenin Alanı-1 : Klavyeden bir kenar uzunluğu ve o kenara ait yüksekliği girilen
-                üçgenin alanını hesaplayan programın satır kodunu ve akış diyagramını geliştiriniz. */
+                üçgenin alanını hesaplayan program   */
 
 import java.util.Scanner;
 
