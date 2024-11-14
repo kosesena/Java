@@ -1,10 +1,9 @@
-
 /* Klavyeden girilen pozitif bir tamsayının tek mi çift mi olduğunu tespit eden program */
-
 
 import java.util.Scanner;
 
 public class TekCiftKontrol {
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
