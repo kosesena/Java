@@ -34,6 +34,7 @@ public class Faktoriyel {
 		}
 		
 		System.out.println("Faktöriyel: " + faktoriyel);
+		
 		scanner.close();
 
 	}
