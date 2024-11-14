@@ -1,7 +1,6 @@
-public class App {
-    /*
+  
     
-    Girilen iki sayının en büyük ortak bölenini(ebob) bulan algoritma
+  /*  Girilen iki sayının en büyük ortak bölenini(ebob) bulan algoritma
      
     EBOB:İki sayının en büyük ortak böleni, her iki sayıyı da tam bölen en büyük sayıdır.
     
@@ -12,9 +11,11 @@ public class App {
     4.minden 1'e kadar bir döngü oluştur:
      Eğer a % min == 0 ve b % min == 0 ise, min EBOB'tur.
     5.EBOB'u yazdır.
-    6.Bitir.
+    6.Bitir.                                                            */
 
-     */
+     
+public class App {
+  
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
