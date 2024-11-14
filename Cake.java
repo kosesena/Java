@@ -1,7 +1,5 @@
-public class App {
-    /* 
-   
-    Pasta yapım süreci
+   /* 
+                  Pasta yapım süreci
     
     Bu algoritma bir pasta yapım sürecini adımlara böler.
      
@@ -18,6 +16,9 @@ public class App {
      9.Pastayı servis edin.
      
     */
+
+public class App {
+ 
     public static void main(String[] args) {
         System.out.println("Pasta yapım süreci");
         System.out.println("1.Malzemeleri hazırlayın(un,yumurta,şeker,süt vb.)");
