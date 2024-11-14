@@ -8,6 +8,7 @@ public class Ekok {
     public static void main(String[] args)  {
         
         Scanner scanner = new Scanner(System.in);
+    
      // İlk sayıyı kullanıcıdan alıyoruz
         System.out.println("Enter the first number: ");
         int a = scanner.nextInt();
