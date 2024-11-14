@@ -1,16 +1,13 @@
-import java.util.Scanner;
-
 /* 
-
 Öğrencinin numarasını, vize ve final notunu aldıktan sonra ortalamasını hesaplayıp numarasını ve not ortalamasını yazdıran program 
 
 Algoritma:
 
 1.Öğrenci numarasını, vize notunu ve final notunu al.
 2.Ortalamayı hesapla: ortalama = (vize * 0.4) + (final * 0.6)
-3.Öğrencinin numarası ve ortalamayı ekrana yazdır.
+3.Öğrencinin numarası ve ortalamayı ekrana yazdır.                   */
 
-*/
+import java.util.Scanner;
 
 public class OgrenciNotu {
     public static void main(String[] args) {
