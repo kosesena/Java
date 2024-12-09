@@ -13,7 +13,7 @@
     5.EBOB'u yazdır.
     6.Bitir.                                                             */
 
-     
+import Java.util.Scanner;
 public class App {
   
     public static void main(String[] args) {
