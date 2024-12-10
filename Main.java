@@ -1,8 +1,11 @@
+/* Tam sayılardan oluşan 20 elemanlı bir dizideki en küçük elemanı bulan ve konsolda gösteren Java programını yazınız. */
+
 import java.util.Random;
 
 public class Main {
 
     public static void main(String[] args) {
+           
             // 20 elemanlı tam sayılardan oluşan bir dizi oluşturma
             int[] numbers = new int[20];
             Random random = new Random();
