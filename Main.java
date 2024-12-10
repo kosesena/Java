@@ -2,7 +2,7 @@
 
 import java.util.Random;  // Random sınıfını programda kullanmamızı sağlar.Bu sınıf,rastgele sayılar oluşturmak için kullanılır
 
-public class Main {     // Programın başlangıç sınıfını tanımlar.Java'da her program bir sınıf içerisinde yer alır.
+public class Dizi1 {     // Programın başlangıç sınıfını tanımlar.Java'da her program bir sınıf içerisinde yer alır.
 
     public static void main(String[] args) {       // Programın çalışmaya başladığı ana metottur.main metodu olmadan Java programı çalışamaz.
     /*  public: Metodun her yerden erişilebilir olduğunu belirtir.
