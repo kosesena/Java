@@ -1,4 +1,4 @@
-/* SORU-Tam sayılardan oluşan 20 elemanlı bir dizideki en küçük elemanı bulan ve konsolda gösteren Java programını yazınız. */
+/* Tam sayılardan oluşan 20 elemanlı bir dizideki en küçük elemanı bulan ve konsolda gösteren Java programını yazınız. */
 
 import java.util.Random;  // Random sınıfını programda kullanmamızı sağlar.Bu sınıf,rastgele sayılar oluşturmak için kullanılır
 
