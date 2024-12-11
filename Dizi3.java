@@ -1,3 +1,6 @@
+/* Kullanıcı tarafından tam sayı değerleri girilen 20 elemanlı bir diziyi küçükten büyüğe sıralayıp konsolda gösteren Java programını yazınız.*/
+    
+
 import java.util.Arrays;
 import java.util.Scanner;
 
