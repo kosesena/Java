@@ -13,7 +13,7 @@ public class Dizi3 {
         System.out.println("Lütfen 20 tam sayı giriniz:");
         for (int i = 0; i < numbers.length; i++) {
             System.out.print((i + 1) + ". sayı: ");
-            numbers[i] = scanner.nextInt();
+            numbers[i] = scanner.nextInt(); // Kullanıcının girdiği tam sayı scanner.nextInt() ile okunur ve dizinin i indeksine atanır.
         }
 
         // Diziyi küçükten büyüğe sıralama
