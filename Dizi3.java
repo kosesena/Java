@@ -21,7 +21,7 @@ public class Dizi3 {
 
         // Sıralanmış diziyi ekrana yazdırma
         System.out.println("Dizi küçükten büyüğe sıralandı:");
-        for (int num : numbers) { 
+        for (int num : numbers) { // Bu bir for-each döngüsüdür. * num:Dizideki her bir elemanı temsil eder * numbers:Üzerinde döngü çalıştırılan dizidir.Bu döngü,dizideki tüm elemanları sırasıyla işler.
             System.out.print(num + " ");
         }
     }
