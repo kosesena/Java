@@ -12,7 +12,7 @@ public class Dizi3 {
         // Kullanıcıdan giriş alma
         System.out.println("Lütfen 20 tam sayı giriniz:");
         for (int i = 0; i < numbers.length; i++) {
-            System.out.print((i + 1) + ". sayı: ");
+            System.out.print((i + 1) + ". sayı: "); // Kullanıcının kaçıncı sayıyı girdiğini belirtmek için bir mesaj yazdırır.
             numbers[i] = scanner.nextInt(); // Kullanıcının girdiği tam sayı scanner.nextInt() ile okunur ve dizinin i indeksine atanır.
         }
 
