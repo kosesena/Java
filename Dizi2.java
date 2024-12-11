@@ -1,6 +1,5 @@
 /*
-SORU-Kullanıcı tarafından tam sayı değerleri girilen 20 elemanlı bir dizideki en küçük elemanı ve o elemana ait indisi bulup konsolda gösteren Java programını
-yazınız.
+SORU-Kullanıcı tarafından tam sayı değerleri girilen 20 elemanlı bir dizideki en küçük elemanı ve o elemana ait indisi bulup konsolda gösteren Java programını yazınız.
 */
 
 import java.util.Scanner;
