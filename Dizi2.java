@@ -4,7 +4,7 @@ Kullanıcı tarafından tam sayı değerleri girilen 20 elemanlı bir dizideki e
 
 import java.util.Scanner;
 
-public class Main {
+public class Dizi2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in); // Bu satır,kullanıcıdan veri almayı sağlayan bir Scanner nesnesi oluşturur.System.in ifadesi,klavyeden giriş yapılacağını belirtir.
         int[] numbers = new int[20];  // Burada,20 elemanlı bir tam sayı(int)dizisi tanımlanır.Bu diziye kullanıcı tarafından girilecek sayılar kaydedilecektir.
