@@ -16,8 +16,8 @@ public class Main {
             numbers[i] = scanner.nextInt(); // Kullanıcının girdiği sayı,dizinin i indeksine kaydedilir.scanner.nextInt() ifadesi,kullanıcının klavyeden girdiği tam sayıyı okur.
         }
 
-        int minValue = numbers[0];
-        int minIndex = 0;
+        int minValue = numbers[0]; // Bu satırda,dizinin ilk elemanı (numbers[0]) en küçük sayı olarak varsayılır.Daha sonra diğer elemanlarla kıyaslanacaktır.
+        int minIndex = 0; // Bu satırda,en küçük sayının dizideki indeksini tutacak olan minIndex değişkeni tanımlanır ve başlangıçta 0 olarak atanır.
 
         for (int i = 1; i < numbers.length; i++) {
             if (numbers[i] < minValue) {
