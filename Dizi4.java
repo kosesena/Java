@@ -1,3 +1,6 @@
+/*Kullanıcı tarafından tam sayı değerleri girilen 20 elemanlı bir dizinin toplamını ve ortalamasını hesaplayıp konsolda gösteren Java programını yazınız.*/
+    
+    
 import java.util.Scanner;
 public class Main {
     public static void main(String[]args) {
